@@ -43,7 +43,7 @@ Para obtener más información sobre los componentes, consulte [Introducción a 
 
 ## Crea el proyecto de muestra
 
-Para crear el proyecto de muestra, genere el[ proyecto de muestra listo para usar en StackBlitz](https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html). Para guardar su trabajo:
+Para crear el proyecto de muestra, genere el [proyecto de muestra listo para usar en StackBlitz](https://angular.io/generated/live-examples/getting-started-v0/stackblitz.html). Para guardar su trabajo:
 
 1. Inicie sesión en StackBlitz.
 2. Haga fork del proyecto que generaste.
