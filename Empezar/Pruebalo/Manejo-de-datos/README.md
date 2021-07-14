@@ -303,7 +303,7 @@ Angular [`HttpClientModule`](https://angular.io/api/common/http/HttpClientModule
    import { HttpClientModule } from "@angular/common/http";
    ```
 
-2. Para registrar los proveedores [`HttpClient`](https://angular.io/api/common/http/HttpClient) de Angular globalmente, agregue `HttpClientModule`](https://angular.io/api/common/http/HttpClientModule) al `AppModule` [`@NgModule()`](https://angular.io/api/core/NgModule) a la matriz `imports`.
+2. Para registrar los proveedores [`HttpClient`](https://angular.io/api/common/http/HttpClient) de Angular globalmente, agregue [`HttpClientModule`](https://angular.io/api/common/http/HttpClientModule) al `AppModule` [`@NgModule()`](https://angular.io/api/core/NgModule) a la matriz `imports`.
 
    ```typescript
    // src/app/app.module.ts
