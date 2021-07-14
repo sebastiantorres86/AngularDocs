@@ -332,5 +332,5 @@ En esta sección, ha creado una aplicación que itera a través de datos y prese
 
 Para continuar explorando Angular y desarrollando esta aplicación:
 
-- Continúe con la [navegación en la aplicación](..\Agregar-Navegacion\README#agregar-navegacion) para crear una página de detalles del producto.
+- Continúe con la [navegación en la aplicación](../Agregar-Navegacion) para crear una página de detalles del producto.
 - Vaya a [Implementación]() para pasar al desarrollo local o implemente su aplicación en Firebase o en su propio servidor.
