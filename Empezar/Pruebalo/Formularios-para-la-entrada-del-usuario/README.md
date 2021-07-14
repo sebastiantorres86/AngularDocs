@@ -1,6 +1,6 @@
 # Usar formularios para la entrada del usuario
 
-Esta guía se basa en el paso [Manejo de datos](../manejo-de-datos) del tutorial Introducción, [Introducción a una aplicación básica de Angular](../Empezar).
+Esta guía se basa en el paso [Manejo de datos](../Manejo-de-datos) del tutorial Introducción, [Introducción a una aplicación básica de Angular](../Empezar).
 
 Esta sección lo guía a través de la adición de una función de pago basada en formularios para recopilar información del usuario como parte del pago.
 
