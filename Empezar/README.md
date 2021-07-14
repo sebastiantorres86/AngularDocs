@@ -277,7 +277,7 @@ Estas bibliotecas solo son necesarias si y cuando pueden ayudarlo a agregar func
 
 Este tema está destinado a brindarle una breve descripción general de lo que es Angular, las ventajas que brinda y lo que puede esperar al comenzar a construir sus aplicaciones.
 
-Para ver Angular en acción, vea nuestro tutorial [Empezar](/Pruebalo/Empezar). Este tutorial utiliza
+Para ver Angular en acción, vea nuestro tutorial [Empezar](./Pruebalo/Empezar). Este tutorial utiliza
 [stackblitz.com](https://stackblitz.com/), para que pueda explorar un ejemplo funcional de Angular sin ningún requisito de instalación.
 
 Para explorar más las capacidades de Angular, recomendamos leer las secciones Comprensión de Angular y Guías para desarrolladores.
