@@ -143,7 +143,7 @@ Utilice los siguientes pasos para agregar un formulario de pago en la parte infe
 
 Después de poner algunos artículos en el carrito, los usuarios pueden revisar sus artículos, ingresar su nombre y dirección y enviar su compra.
 
-![](images\cart-with-items-and-form.png)
+![](images/cart-with-items-and-form.png)
 
 Para confirmar el envío, abra la consola para ver un objeto que contiene el nombre y la dirección que envió.
 
