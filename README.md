@@ -4,7 +4,7 @@ Angular es un framework de diseño de aplicaciones y una plataforma de desarroll
 
 Estos documentos de Angular lo ayudan a aprender y usar el framework y la plataforma de desarrollo de Angular, desde su primera aplicación hasta la optimización de aplicaciones complejas de una sola página para empresas. Los tutoriales y guías incluyen ejemplos descargables para acelerar sus proyectos.
 
-### [¿Qué es Angular?](Empezar/README)
+### [¿Qué es Angular?](Empezar)
 
 Obtenga una descripción general de alto nivel de la plataforma Angular.
 
