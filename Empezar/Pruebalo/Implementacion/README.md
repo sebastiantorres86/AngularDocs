@@ -49,7 +49,7 @@ Una práctica recomendada es ejecutar su proyecto localmente antes de implementa
 
    ```
 
-{} Mientras sirve su aplicación, puede editar su código y ver que los cambios se actualizan automáticamente en el navegador. Para detener el ecomando `ng serv`, presione `Ctrl` + `c`.
+  Mientras sirve su aplicación, puede editar su código y ver que los cambios se actualizan automáticamente en el navegador. Para detener el ecomando `ng serv`, presione `Ctrl` + `c`.
 
 ---
 
