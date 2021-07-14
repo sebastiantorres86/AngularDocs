@@ -20,7 +20,7 @@ Esta sección explica las ideas centrales detrás de Angular. Comprender estas i
 
 ### Componentes
 
-Los componentes son los bloques de construcción que componen una aplicación. Un componente incluye una clase de TypeScript con un decorador, una plantilla HTML y estilos. El decorador especifica la siguiente información específica de Angular: `@Component()` `@Component()`
+Los componentes son los bloques de construcción que componen una aplicación. Un componente incluye una clase de TypeScript con un decorador `@Component()`, una plantilla HTML y estilos. El decorador  `@Component()` especifica la siguiente información específica de Angular:
 
 - Un selector de CSS que define cómo se usa el componente en una plantilla. Los elementos HTML de su plantilla que coinciden con este selector se convierten en instancias del componente.
 - Una plantilla HTML que le indica a Angular cómo renderizar el componente.
