@@ -35,7 +35,7 @@ Esta guía demuestra la creación de una aplicación con los siguientes componen
 - `<app-product-list>`: La lista de productos.
 - `<app-product-alerts>`: Un componente que contiene las alertas de la aplicación.
 
-![](images\app-components.png)
+![](images/app-components.png)
 
 Para obtener más información sobre los componentes, consulte [Introducción a los componentes](https://angular.io/guide/architecture-components).
 
@@ -54,7 +54,7 @@ En StackBlitz, el panel de vista previa a la derecha muestra el estado inicial d
 - una barra superior con el nombre de la tienda, _My Store_ y un botón de pago
 - un encabezado para una lista de productos, _Products_
 
-![](images\new-app-all.gif)
+![](images/new-app-all.gif)
 
 La sección del proyecto a la izquierda muestra los archivos de origen que componen la aplicación, incluida la infraestructura y los archivos de configuración.
 
@@ -98,7 +98,7 @@ En esta sección, actualizará la aplicación para mostrar una lista de producto
 
    El panel de vista previa se actualiza para mostrar el nombre de cada producto en la lista.
 
-   ![](images\template-syntax-product-names.png)
+   ![](images/template-syntax-product-names.png)
 
 4. Para hacer que el nombre de cada producto sea un enlace a los detalles del producto, agregue el elemento `<a>` alrededor `{{ product.name }}`.
 
