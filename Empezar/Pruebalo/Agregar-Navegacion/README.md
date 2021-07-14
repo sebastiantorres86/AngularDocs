@@ -65,7 +65,7 @@ La aplicación ya usa Angular [`Router`](https://angular.io/api/router/Router) p
 
 ## Ver detalles del producto
 
-`ProductDetailsComponent` maneja la exhibición de cada producto. El Angular Router muestra componentes basados en la URL del navegador y [sus rutas definidas](https://angular.io/start/start-routing#define-routes).
+`ProductDetailsComponent` maneja la exhibición de cada producto. Angular Router muestra componentes basados en la URL del navegador y [sus rutas definidas](https://angular.io/start/start-routing#define-routes).
 
 En esta sección, usará el Angular Router para combinar los datos de `products` y la información de ruta para mostrar los detalles específicos de cada producto.
 
