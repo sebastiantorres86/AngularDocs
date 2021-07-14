@@ -1,6 +1,6 @@
 # Agregar navegacion
 
-Esta guía se basa en el primer paso del tutorial de introducción, [Introducción a una aplicación básica de Angular](..\Empezar\README#empezando-con-angular).
+Esta guía se basa en el primer paso del tutorial de introducción, [Introducción a una aplicación básica de Angular](../Empezar).
 
 En esta etapa de desarrollo, la aplicación de la tienda en línea tiene un catálogo básico de productos.
 
