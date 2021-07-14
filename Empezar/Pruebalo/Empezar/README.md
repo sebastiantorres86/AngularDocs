@@ -117,7 +117,7 @@ En esta sección, actualizará la aplicación para mostrar una lista de producto
 
    En el panel de vista previa, coloque el cursor sobre el nombre de un producto para ver el valor de la propiedad del nombre enlazado, que es el nombre del producto más la palabra "details". El enlace de propiedad `[ ]` le permite usar el valor de la propiedad en una expresión de plantilla.
 
-   ![](images\template-syntax-product-anchor.png)
+   ![](images/template-syntax-product-anchor.png)
 
 6. Agregue las descripciones de los productos. En un elemento `<p>`, use una directiva `*ngIf` para que Angular solo cree el elemento `<p>` si el producto actual tiene una descripción.
 
@@ -136,7 +136,7 @@ En esta sección, actualizará la aplicación para mostrar una lista de producto
 
    La aplicación ahora muestra el nombre y la descripción de cada producto en la lista. Tenga en cuenta que el producto final no tiene un párrafo de descripción. Angular no crea el elemento `<p>` porque la propiedad de descripción del producto está vacía.
 
-   ![](images\template-syntax-product-description.png)
+   ![](images/template-syntax-product-description.png)
 
 7. Agrega un botón para que los usuarios puedan compartir un producto. Vincula el evento `click` del botón al método `share()` en `product-list.component.ts`. El enlace de eventos usa un conjunto de paréntesis, `( )`, alrededor del evento, como en el evento `(click)` del elemento `<button>`.
 
@@ -157,11 +157,11 @@ En esta sección, actualizará la aplicación para mostrar una lista de producto
 
    Cada producto tiene ahora un botón **Share**.
 
-   ![](images\template-syntax-product-share-button.png)
+   ![](images/template-syntax-product-share-button.png)
 
    Al hacer clic en el botón **Share**, se activa una alerta que dice: "The product has been shared!".
 
-   ![](images\template-syntax-product-share-alert.png)
+   ![](images/template-syntax-product-share-alert.png)
 
 Al editar la plantilla, ha explorado algunas de las características más populares de las plantillas de Angular. Para obtener más información, consulte [Introducción a componentes y plantillas](https://angular.io/guide/architecture-components#template-syntax).
 
@@ -177,7 +177,7 @@ Esta sección le guía a través de la creación de un componente secundario, `P
 
 1. Haga clic derecho en la carpeta `app` y use el `Angular Generator` para generar un nuevo componente llamado `product-alerts`.
 
-   ![](images\generate-component.png)
+   ![](images/generate-component.png)
 
    El generador crea archivos de inicio para las tres partes del componente:
 
@@ -250,7 +250,7 @@ Esta sección le guía a través de la creación de un componente secundario, `P
 
 El componente de alerta de nuevo producto toma un producto como entrada de la lista de productos. Con esa entrada, muestra u oculta el botón , según el precio del producto. El precio del Phone XL es de más de $ 700, por lo que el botón **Notify Me** aparece en ese producto.
 
-![](images\product-alert-button.png)
+![](images/product-alert-button.png)
 
 ---
 
@@ -320,7 +320,7 @@ Para que funcione el botón , el componente secundario debe notificar y pasar lo
 
 6. Haga clic en el botón **Notify Me** para activar una alerta que dice: "You will be notified when the product goes on sale".
 
-   ![](images\product-alert-notification.png)
+   ![](images/product-alert-notification.png)
 
 Para obtener más información sobre la comunicación entre componentes, consulte [Interacción de componentes](https://angular.io/guide/component-interaction).
 
