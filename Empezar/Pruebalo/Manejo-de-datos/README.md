@@ -1,6 +1,6 @@
 # Manejo de datos
 
-Esta guía se basa en el segundo paso del tutorial [Introducción a una aplicación básica de Angular](../Empezar/README#empezando-con-angular), [Agregar navegación](../Agregar-Navegacion). En esta etapa de desarrollo, la aplicación de la tienda tiene un catálogo de productos con dos vistas: una lista de productos y detalles del producto. Los usuarios pueden hacer clic en el nombre de un producto de la lista para ver los detalles en una nueva vista, con una URL o ruta distinta.
+Esta guía se basa en el segundo paso del tutorial [Introducción a una aplicación básica de Angular](../Empezar), [Agregar navegación](../Agregar-Navegacion). En esta etapa de desarrollo, la aplicación de la tienda tiene un catálogo de productos con dos vistas: una lista de productos y detalles del producto. Los usuarios pueden hacer clic en el nombre de un producto de la lista para ver los detalles en una nueva vista, con una URL o ruta distinta.
 
 Este paso del tutorial lo guía a través de la creación de un carrito de compras en las siguientes fases:
 
@@ -508,4 +508,4 @@ Ahora tiene una aplicación de tienda con un catálogo de productos, un carrito 
 Para continuar explorando Angular:
 
 - Continúe con [Formularios de entrada del usuario](../Formularios-para-la-entrada-del-usuario) para finalizar la aplicación agregando la vista del carrito de compras y un formulario de pago.
-- Vaya a [Implementación]() para pasar al desarrollo local o implemente su aplicación en Firebase o en su propio servidor.
+- Vaya a [Implementación](../Implementacion) para pasar al desarrollo local o implemente su aplicación en Firebase o en su propio servidor.
