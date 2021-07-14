@@ -507,5 +507,5 @@ Ahora tiene una aplicación de tienda con un catálogo de productos, un carrito 
 
 Para continuar explorando Angular:
 
-- Continúe con [Formularios de entrada del usuario](..\Formularios-para-la-entrada-del-usuario\README#Usar-formularios-para-la-entrada-del-usuario) para finalizar la aplicación agregando la vista del carrito de compras y un formulario de pago.
+- Continúe con [Formularios de entrada del usuario](../Formularios-para-la-entrada-del-usuario) para finalizar la aplicación agregando la vista del carrito de compras y un formulario de pago.
 - Vaya a [Implementación]() para pasar al desarrollo local o implemente su aplicación en Firebase o en su propio servidor.

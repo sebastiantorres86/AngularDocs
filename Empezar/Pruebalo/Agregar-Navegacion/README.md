@@ -149,5 +149,5 @@ Ha configurado su aplicación para que pueda ver los detalles del producto, cada
 
 Para continuar explorando Angular:
 
-- Continúe con [Manejo de datos](..\Manejo-de-datos\README#manejo-de-datos) para agregar una función de carrito de compras, administrar los datos del carrito y recuperar datos externos para los precios de envío.
+- Continúe con [Manejo de datos](../Manejo-de-datos) para agregar una función de carrito de compras, administrar los datos del carrito y recuperar datos externos para los precios de envío.
 - Vaya a [Implementación]() para implementar su aplicación en Firebase o pasar al desarrollo local.

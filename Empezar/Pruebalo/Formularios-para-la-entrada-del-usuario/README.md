@@ -153,4 +153,4 @@ Para confirmar el envío, abra la consola para ver un objeto que contiene el nom
 
 Tiene una aplicación de tienda en línea completa con un catálogo de productos, un carrito de compras y una función de pago.
 
-[Continúe con la sección "Implementación"]() para pasar al desarrollo local o implemente su aplicación en Firebase o en su propio servidor.
+[Continúe con la sección "Implementación"](../Implementacion) para pasar al desarrollo local o implemente su aplicación en Firebase o en su propio servidor.
