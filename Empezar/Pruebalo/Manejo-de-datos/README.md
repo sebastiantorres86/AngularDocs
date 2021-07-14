@@ -140,11 +140,11 @@ Esta sección lo guía a través del uso del `CartService` para agregar un produ
 
 5. Verifique que el nuevo botón **Buy** aparece como se esperaba actualizando la aplicación y haciendo clic en el nombre de un producto para mostrar sus detalles.
 
-   ![](images\product-details-buy.png)
+   ![](images/product-details-buy.png)
 
 6. Haga clic en el botón **Buy** para agregar el producto a la lista almacenada de artículos en el carrito y mostrar un mensaje de confirmación.
 
-   ![](images\buy-alert.png)
+   ![](images/buy-alert.png)
 
 ---
 
@@ -204,7 +204,7 @@ Para crear la vista de carro, siga los mismos pasos que hizo para crear `Product
 
 4. Verifique que el nuevo `CartComponent` trabaje como se esperaba haciendo clic en el botón **Checkout**. ¡Puedes ver el texto predeterminado "cart works!", y la URL tiene el patrón `https://getting-started.stackblitz.io/cart`, donde `getting-started.stackblitz.io` puede ser diferente para su proyecto StackBlitz.
 
-   ![](images\cart-works.png)
+   ![](images/cart-works.png)
 
 ### Mostrar los artículos del carrito
 
@@ -259,7 +259,7 @@ Esta sección le muestra cómo utilizar el servicio de carrito para mostrar los 
    - Haga clic en **Buy** para agregar el producto al carrito.
    - Haga clic en **Checkout** para ver el carrito.
 
-   ![](images\cart-page-full.png)
+   ![](images/cart-page-full.png)
 
 Para obtener más información sobre los servicios, consulte [Introducción a los servicios y la inyección de dependencia](https://angular.io/guide/architecture-services).
 
@@ -493,11 +493,11 @@ Esta sección lo guía a través de la modificación de `ShippingComponent` para
 
 6. Haga clic en el botón **Checkout** para ver el carrito actualizado. Recuerde que cambiar la aplicación hace que se actualice la vista previa, lo que vacía el carrito.
 
-   ![](images\cart-empty-with-shipping-prices.png)
+   ![](images/cart-empty-with-shipping-prices.png)
 
    Haga clic en el enlace para navegar a los precios de envío.
 
-   ![](images\shipping-prices.png)
+   ![](images/shipping-prices.png)
 
 ---
 
