@@ -53,7 +53,7 @@ La aplicación ya usa Angular [`Router`](https://angular.io/api/router/Router) p
    </div>
    ```
 
-   La directiva [`RouterLink`](https://angular.io/api/router/RouterLink) le ayuda a personalizar el elemento de anclaje. En este caso, la ruta, o URL, contiene un segmento fijo, `/products`. El segmento final es variable, insertando la propiedad `id` del producto actual. Por ejemplo, la URL de un producto con i`d` 1 sería similar a h`ttps://getting-started-myfork.stackblitz.io/products/1`.
+   La directiva [`RouterLink`](https://angular.io/api/router/RouterLink) le ayuda a personalizar el elemento de anclaje. En este caso, la ruta, o URL, contiene un segmento fijo, `/products`. El segmento final es variable, insertando la propiedad `id` del producto actual. Por ejemplo, la URL de un producto con `id` 1 sería similar a `https://getting-started-myfork.stackblitz.io/products/1`.
 
 5. Verifique que el enrutador funcione según lo previsto haciendo clic en el nombre del producto. La aplicación debería mostrar el `ProductDetailsComponent`, que actualmente dice "product-details works!"
 
