@@ -1,6 +1,6 @@
 # Manejo de datos
 
-Esta guía se basa en el segundo paso del tutorial [Introducción a una aplicación básica de Angular](..\Empezar\README#empezando-con-angular), [Agregar navegación](..\Agregar-Navegacion\README#agregar-navegacion). En esta etapa de desarrollo, la aplicación de la tienda tiene un catálogo de productos con dos vistas: una lista de productos y detalles del producto. Los usuarios pueden hacer clic en el nombre de un producto de la lista para ver los detalles en una nueva vista, con una URL o ruta distinta.
+Esta guía se basa en el segundo paso del tutorial [Introducción a una aplicación básica de Angular](..\Empezar\README#empezando-con-angular), [Agregar navegación](..\Agregar-Navegacion\). En esta etapa de desarrollo, la aplicación de la tienda tiene un catálogo de productos con dos vistas: una lista de productos y detalles del producto. Los usuarios pueden hacer clic en el nombre de un producto de la lista para ver los detalles en una nueva vista, con una URL o ruta distinta.
 
 Este paso del tutorial lo guía a través de la creación de un carrito de compras en las siguientes fases:
 
