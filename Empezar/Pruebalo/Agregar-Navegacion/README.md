@@ -137,7 +137,7 @@ En esta sección, usará el Angular Router para combinar los datos de `products`
 
 Cuando los usuarios hacen clic en un nombre en la lista de productos, el enrutador los dirige a la URL distintiva del producto, muestra `ProductDetailsComponent` y muestra los detalles del producto.
 
-![](images\product-details-works.png)
+![](images/product-details-works.png)
 
 Para obtener más información sobre el enrutador angular, consulte [Enrutamiento y navegación](https://angular.io/guide/router).
 
