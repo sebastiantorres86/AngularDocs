@@ -133,7 +133,7 @@ En esta sección, usará el Angular Router para combinar los datos de `products`
    </div>
    ```
 
-   La línea `<h4>{{ product.price | currency }}</h4>`, usa la pipe [`currency`](https://angular.io/api/common/CurrencyPipe) para transformar `product.price` de un número a una cadena de moneda. Una pipe es una forma en que puede transformar datos en su plantilla HTML. Para obtener más información sobre las tuberías angulares, consulte [Pipes](https://angular.io/guide/pipes).
+   La línea `<h4>{{ product.price | currency }}</h4>`, usa la pipe [`currency`](https://angular.io/api/common/CurrencyPipe) para transformar `product.price` de un número a una cadena de moneda. Una pipe es una forma en que puede transformar datos en su plantilla HTML. Para obtener más información sobre las pipes de Angular, consulte [Pipes](https://angular.io/guide/pipes).
 
 Cuando los usuarios hacen clic en un nombre en la lista de productos, el enrutador los dirige a la URL distintiva del producto, muestra `ProductDetailsComponent` y muestra los detalles del producto.
 
