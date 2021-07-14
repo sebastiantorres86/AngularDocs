@@ -260,14 +260,14 @@ Algunas de las bibliotecas disponibles para usted incluyen:
 
 |                                                              |                                                                                                                                                                               |
 | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Angular Router](https://angular.io/guide/router)            | Navegación y enrutamiento avanzados del lado del cliente basados ​​en componentes Angular. Admite carga diferida, rutas anidadas, coincidencia de rutas personalizadas y más. |
+| [Angular Router](https://angular.io/guide/router)            | Navegación y enrutamiento avanzados del lado del cliente basados en componentes Angular. Admite carga diferida, rutas anidadas, coincidencia de rutas personalizadas y más. |
 | [Angular Forms](https://angular.io/guide/forms-overview)     | Sistema uniforme de participación y validación de formularios.                                                                                                                |
 | [Angular HttpClient](https://angular.io/guide/http)          | Cliente HTTP robusto que puede impulsar una comunicación cliente-servidor más avanzada.                                                                                       |
 | [Angular Animations](https://angular.io/guide/animations)    | Sistema rico para conducir animaciones según el estado de la aplicación.                                                                                                      |
 | [Angular PWA](https://angular.io/guide/service-worker-intro) | Herramientas para crear aplicaciones web progresivas (PWA), incluido un service worker y un manifiesto de aplicación web.                                                     |
 | [Angular Schematics](https://angular.io/guide/schematics)    | Herramientas automatizadas de andamiaje, refactorización y actualización que simplifican el desarrollo a gran escala.                                                         |
 
-Estas bibliotecas amplían la funcionalidad de su aplicación al mismo tiempo que le permiten concentrarse más en las características que hacen que su aplicación sea única. Y puede agregar estas bibliotecas sabiendo que están diseñadas para integrarse sin problemas y actualizarse simultáneamente con el marco Angular.
+Estas bibliotecas amplían la funcionalidad de su aplicación al mismo tiempo que le permiten concentrarse más en las características que hacen que su aplicación sea única. Y puede agregar estas bibliotecas sabiendo que están diseñadas para integrarse sin problemas y actualizarse simultáneamente con el framework Angular.
 
 Estas bibliotecas solo son necesarias si y cuando pueden ayudarlo a agregar funcionalidad a sus aplicaciones o resolver un problema en particular.
 
